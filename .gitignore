@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Data
+*.csv
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
